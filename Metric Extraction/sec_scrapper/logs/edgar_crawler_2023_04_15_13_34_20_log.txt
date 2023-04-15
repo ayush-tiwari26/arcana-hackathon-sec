@@ -1,0 +1,20 @@
+04-15-2023 13:34 - edgar_crawler - INFO - Saving log to /home/azureuser/arcana-hackathon-sec/Metric Extraction/sec_scrapper/logs
+
+04-15-2023 13:34 - edgar_crawler - INFO - Downloading EDGAR Index files
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2021_QTR1.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2021_QTR2.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2021_QTR3.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2021_QTR4.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2022_QTR1.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2022_QTR2.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - Skipping 2022_QTR3.tsv
+04-15-2023 13:34 - edgar_crawler - INFO - 2022_QTR4.tsv downloaded
+04-15-2023 13:34 - edgar_crawler - DEBUG - Could not find CIK for "ADGL"
+04-15-2023 13:34 - edgar_crawler - DEBUG - Could not find CIK for "PLAN"
+04-15-2023 13:34 - edgar_crawler - DEBUG - Could not find CIK for "APVS"
+04-15-2023 13:34 - edgar_crawler - DEBUG - Could not find CIK for "APTY"
+04-15-2023 13:34 - edgar_crawler - INFO - 
+Reading filings metadata...
+
+04-15-2023 13:34 - edgar_crawler - INFO - 
+There are no more filings to download for the given years, quarters and companies

@@ -1,0 +1,6 @@
+04-15-2023 13:35 - ExtractItems - INFO - Starting extraction...
+
+04-15-2023 13:35 - ExtractItems - INFO - 
+Item extraction is completed successfully.
+04-15-2023 13:35 - ExtractItems - INFO - 0 new filings were processed.
+04-15-2023 13:35 - ExtractItems - INFO - Extracted filings are saved to: /home/azureuser/arcana-hackathon-sec/Metric Extraction/sec_scrapper/datasets/10_K
